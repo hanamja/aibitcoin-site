@@ -2,7 +2,7 @@ export default function AboutPage() {
   return (
     <>
       {/* 첫 화면: 히어로 */}
-      <section className="min-h-screen bg-[#eaf4fb] pt-20 flex items-center justify-center">
+      <section className="min-h-screen bg-[#eaf4fb] flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-5xl font-bold text-black mb-4">
             우리는 누구나 도입 가능한
